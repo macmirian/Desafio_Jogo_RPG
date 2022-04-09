@@ -1,0 +1,15 @@
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\bin\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.exe
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\bin\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.deps.json
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\bin\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.runtimeconfig.json
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\bin\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.dll
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\bin\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.pdb
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.AssemblyInfoInputs.cache
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.AssemblyInfo.cs
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.dll
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\refint\Desafio_Abstraindo_um_jogo_RPG.dll
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.pdb
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\Desafio_Abstraindo_um_jogo_RPG.genruntimeconfig.cache
+C:\Users\macmi\Documents\Dio\Bootcamp_Banco_Carrefour\Projeto c#\Desafio_Abstraindo_um_jogo_RPG\obj\Debug\net6.0\ref\Desafio_Abstraindo_um_jogo_RPG.dll
